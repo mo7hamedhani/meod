@@ -1,0 +1,121 @@
+PayPal
+Stripe
+Square
+shopify
+Braintree
+Authorize.Net
+2Checkout
+PayU
+Razorpay
+Adyen
+Worldpay
+Skrill
+Alipay
+WeChat Pay
+Apple Pay
+Google Pay
+Paytm
+Mollie
+Fattmerchant
+BlueSnap
+Dwolla
+Forte
+PaySimple
+Heartland Payment Systems
+First Data
+BitPay
+Wepay
+Ayden
+GoCardless
+Payoneer
+Venmo
+Zelle
+Square Cash
+Hyperwallet
+TransferWise (Wise)
+Payline Data
+Moneris
+QuickBooks Payments
+Clover
+Fiserv
+iDEAL
+Klarna
+Instamojo
+Paddle
+Paysera
+Bluesnap
+Paysafe
+HyperPay
+PayFast
+SecurionPay
+CoinGate
+Paynova
+Ingenico ePayments
+Payone
+HiPay
+Cardknox
+Flutterwave
+PesoPay
+Payrexx
+Fattmerchant
+Redsys
+Viva Wallet
+Satispay
+Zoho Checkout
+Setu
+PayBright
+iPay88
+Tinkoff
+Trustly
+Vantiv
+CardConnect
+iyzico
+Interswitch
+Advcash
+Spreedly
+Acapture
+Checkout.com
+Worldline
+Klarnas
+NMI
+EBANX
+Dwolla
+Cashfree
+Fawry
+Ayden
+GoCardless
+PayTabs
+MOLPay
+Mollie
+QuickPay
+MultiSafepay
+MyGate
+AsiaPay
+Razorpay
+Skrill
+Adyen
+eWAY
+Hyperwallet
+Buckaroo
+PesoPay
+Paysera
+Dwolla
+Cashfree
+Fawry
+Ayden
+GoCardless
+PayTabs
+MOLPay
+Mollie
+QuickPay
+MultiSafepay
+MyGate
+AsiaPay
+Razorpay
+Skrill
+Adyen
+eWAY
+Hyperwallet
+Buckaroo
+PesoPay
+Paysera
